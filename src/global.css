@@ -1,0 +1,9 @@
+body{
+    background: green;
+}
+
+.main-container h1{
+    background-color: #222;
+    color: #fff;
+    text-align: center;
+}
